@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mahmoud46819m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -16,13 +16,13 @@
 
 ### 🚀 About Me
 
-- 🔭 مبرمج تطبيقات ومواقع ومنصات رقمية متكاملة
-- 📱 متخصص في تطوير تطبيقات الموبايل باستخدام **Flutter** لأنظمة Android و iOS من كود واحد
-- 🌱 أعمل باستمرار على تطوير مهاراتي في أحدث التقنيات والأدوات
-- 💡 أؤمن أن الكود الجيد = بنية نظيفة + أداء عالي + تجربة مستخدم ممتازة
-- 🎯 هدفي تحويل الأفكار إلى منتجات رقمية حقيقية تخدم الناس
-- 📫 تواصل معي عبر: **YOUR-EMAIL@example.com**
-- ⚡ Fun fact: أحب حل المشاكل المعقدة بأبسط طريقة ممكنة
+- 🔭 Developer building complete applications, websites, and digital platforms
+- 📱 Specialized in mobile app development using **Flutter** — one codebase for Android & iOS
+- 🌱 Constantly leveling up with the latest tools and technologies
+- 💡 I believe great code = clean architecture + high performance + great UX
+- 🎯 My goal: turn ideas into real digital products that serve people
+- 📫 Reach me at: **mahmoud46819m@gmail.com**
+- ⚡ Fun fact: I love solving complex problems the simplest way possible
 
 ---
 
@@ -33,7 +33,7 @@
 </p>
 
 <details>
-<summary><b>📂 تفاصيل التقنيات (اضغط للتوسيع)</b></summary>
+<summary><b>📂 Tech Details (click to expand)</b></summary>
 <br>
 
 **Mobile:**
@@ -77,8 +77,8 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>📱 مشروع 1 — اسم المشروع</h4>
-      <p>وصف مختصر للمشروع وما يقدمه من قيمة حقيقية للمستخدم، والتقنيات المستخدمة فيه.</p>
+      <h4>📱 Project 1 — Project Name</h4>
+      <p>A short description of the project, the real value it delivers to users, and the technologies used to build it.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -86,8 +86,8 @@
       <a href="https://github.com/YOUR-USERNAME/project-1">🔗 View Repository</a>
     </td>
     <td width="50%">
-      <h4>🌐 مشروع 2 — اسم المشروع</h4>
-      <p>وصف مختصر للمشروع وما يقدمه من قيمة حقيقية للمستخدم، والتقنيات المستخدمة فيه.</p>
+      <h4>🌐 Project 2 — Project Name</h4>
+      <p>A short description of the project, the real value it delivers to users, and the technologies used to build it.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -97,8 +97,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛒 مشروع 3 — اسم المشروع</h4>
-      <p>وصف مختصر للمشروع وما يقدمه من قيمة حقيقية للمستخدم، والتقنيات المستخدمة فيه.</p>
+      <h4>🛒 Project 3 — Project Name</h4>
+      <p>A short description of the project, the real value it delivers to users, and the technologies used to build it.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -106,8 +106,8 @@
       <a href="https://github.com/YOUR-USERNAME/project-3">🔗 View Repository</a>
     </td>
     <td width="50%">
-      <h4>🎮 مشروع 4 — اسم المشروع</h4>
-      <p>وصف مختصر للمشروع وما يقدمه من قيمة حقيقية للمستخدم، والتقنيات المستخدمة فيه.</p>
+      <h4>🎮 Project 4 — Project Name</h4>
+      <p>A short description of the project, the real value it delivers to users, and the technologies used to build it.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -122,13 +122,13 @@
 ### 💬 Let's Connect
 
 <p align="center">
-أنا دائمًا منفتح على فرص العمل الحر، التعاون في مشاريع مميزة، أو مجرد نقاش تقني ممتع.<br>
-لا تتردد في التواصل معي!
+I'm always open to freelance opportunities, collaborating on great projects, or just a good technical chat.<br>
+Feel free to reach out!
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="mailto:mahmoud46819m@gmail.com"><img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
